@@ -1,0 +1,11 @@
+{
+  "api_key": "your_api_key_here",
+  "video_directory": "videos",
+  "max_retries": 3,
+  "retry_delay": 5,
+  "batch_size": 5,
+  "default_tags": ["bot", "automated", "AI"],
+  "default_category": "Technology",
+  "default_privacy": "public",
+  "default_license": "standard_youtube"
+}
